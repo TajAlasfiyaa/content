@@ -38,7 +38,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [TajAlasfiyaa/content](https://github.com/TajAlasfiyaa/content)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|19<br/>Tools used|12/10/23 <br/>Report generated|
+|21<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -159,9 +159,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (7)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (9)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (7)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (9)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -171,7 +171,9 @@ Full tech stack [here](/techstack.md)
 |[cli-progress](https://www.npmjs.com/cli-progress)|v3.12.0|04/28/23|Onkar Ruikar |MIT|N/A|
 |[cross-env](https://www.npmjs.com/cross-env)|v7.0.3|04/28/23|Onkar Ruikar |MIT|N/A|
 |[gray-matter](https://www.npmjs.com/gray-matter)|v4.0.3|04/28/23|Onkar Ruikar |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v8.0.3|01/03/23|dependabot[bot] |MIT|N/A|
 |[js-yaml](https://www.npmjs.com/js-yaml)|v3.14.1|04/28/23|Onkar Ruikar |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v15.1.0|11/13/23|dependabot[bot] |MIT|N/A|
 
 <br/>
 <div align='center'>
