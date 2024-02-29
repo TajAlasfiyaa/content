@@ -2,7 +2,7 @@ repo_name: TajAlasfiyaa/content
 report_id: 9cb3c5b55ef186b9a3c81c0bf8f31104
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:26:21+00:00'
+timestamp: '2024-02-29T18:59:59+00:00'
 requested_by: Josh-Cena
 provider: github
 branch: main
@@ -68,7 +68,7 @@ tools:
   last_updated_by: Peter Bengtsson
   last_updated_on: 2020-09-15 15:43:01.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 3.1.0
   license: MIT
